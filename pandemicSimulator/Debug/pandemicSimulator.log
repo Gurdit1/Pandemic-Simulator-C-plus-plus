@@ -1,0 +1,8 @@
+﻿  Population.cpp
+c:\users\modder\source\repos\pandemicsimulator\pandemicsimulator\population.cpp(46): warning C4018: '<': signed/unsigned mismatch
+c:\users\modder\source\repos\pandemicsimulator\pandemicsimulator\population.cpp(47): warning C4018: '<': signed/unsigned mismatch
+c:\users\modder\source\repos\pandemicsimulator\pandemicsimulator\population.cpp(136): warning C4018: '<': signed/unsigned mismatch
+c:\users\modder\source\repos\pandemicsimulator\pandemicsimulator\population.cpp(137): warning C4018: '<': signed/unsigned mismatch
+c:\users\modder\source\repos\pandemicsimulator\pandemicsimulator\population.cpp(171): warning C4018: '<': signed/unsigned mismatch
+c:\users\modder\source\repos\pandemicsimulator\pandemicsimulator\population.cpp(172): warning C4018: '<': signed/unsigned mismatch
+  pandemicSimulator.vcxproj -> C:\Users\Modder\source\repos\pandemicSimulator\Debug\pandemicSimulator.exe
